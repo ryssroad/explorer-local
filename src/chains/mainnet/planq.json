@@ -1,7 +1,7 @@
 {
     "chain_name": "planq",
-    "api": ["http://38.242.148.96:1417"],
-    "rpc": ["http://38.242.148.96:27657"],
+    "api": ["https://planq-api.systemd.run"],
+    "rpc": ["http://planq-rpc.systemd.run"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "60",
