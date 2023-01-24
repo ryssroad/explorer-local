@@ -1,7 +1,7 @@
 {
     "chain_name": "planq",
-    "api": ["https://rest.planq.network"],
-    "rpc": ["https://rpc.planq.network"],
+    "api": ["http://38.242.148.96:1417"],
+    "rpc": ["http://38.242.148.96:27657"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "60",
